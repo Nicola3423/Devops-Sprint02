@@ -1,0 +1,13 @@
+{
+    "name": "Challenger-Odontoprev",
+    "version": "1.0.0",
+    "description": "SPRINT 2 DEVOPS",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "dependencies": {
+      "express": "^4.18.2"
+    }
+  }
+  
