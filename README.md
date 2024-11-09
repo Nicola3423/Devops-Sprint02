@@ -30,5 +30,5 @@ Siga os passos abaixo para clonar o repositório, construir a imagem Docker e ex
 Execute o comando abaixo para clonar o repositório em sua máquina local:
  
 ```bash
-git clone <URL-do-repositorio>
-cd <nome-do-repositorio>
+git clone https://github.com/Nicola3423/Devops-Sprint02
+cd Devops-Sprint02
